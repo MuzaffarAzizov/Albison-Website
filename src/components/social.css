@@ -1,0 +1,16 @@
+.social {
+  padding-bottom: 1%;
+  background: rgb(241, 242, 243);
+}
+.logo {
+  text-align: center;
+}
+.link {
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  margin: 5%;
+}
+.link img {
+  width: 1.5rem;
+}

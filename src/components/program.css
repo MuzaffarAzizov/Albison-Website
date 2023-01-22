@@ -1,0 +1,40 @@
+.program {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.frontend,
+.backend,
+.internship {
+  background-color: #f1f2f3;
+  border-radius: 1.2rem;
+  font-family: Roboto;
+  padding: 1.5rem;
+}
+.html,
+.itransition {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fff;
+  margin: 5% 10%;
+  border-radius: 1.2rem;
+}
+.html img {
+  width: 10%;
+}
+h1 {
+  text-align: center;
+}
+.long__button {
+  background-color: #18216d;
+  border: 3px double #fff;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 28px;
+  padding: 1%;
+  text-align: center;
+  width: 80%;
+  margin: 5% 10%;
+}

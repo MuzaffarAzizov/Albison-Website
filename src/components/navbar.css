@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30%;
+  align-items: center;
+}
+.contact {
+  background: rgb(46, 24, 106);
+  padding: 5% 20%;
+  border: 1px solid rgb(237, 243, 245);
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(255, 130, 92);
+}
+.contact a {
+  color: rgb(255, 255, 255);
+  font-size: 1rem;
+}
+a {
+  font-size: 1.4rem;
+  color: rgb(24, 33, 109);
+}

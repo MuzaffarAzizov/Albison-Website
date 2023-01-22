@@ -1,0 +1,48 @@
+.showcase {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10%;
+}
+.showcase__text {
+  width: 50%;
+}
+.img {
+  width: 50%;
+}
+h1 {
+  font-family: 'Motiva Sans Bold', serif;
+  color: rgb(24, 33, 109);
+  font-size: 56px;
+  line-height: 1.18;
+}
+p {
+  color: rgb(24, 33, 109);
+  font-size: 21px;
+  line-height: 1.41;
+  margin: 5% 0;
+}
+.showcase__button {
+  display: flex;
+  gap: 5%;
+  align-items: center;
+}
+.royxat {
+  background: rgb(46, 24, 106);
+  padding: 2% 4%;
+  border: 1px solid rgb(237, 243, 245);
+  border-radius: 4px;
+  cursor: pointer;
+}
+.royxat a {
+  color: rgb(255, 255, 255);
+  font-size: 1rem;
+}
+.kurs {
+  background: rgb(255, 255, 255);
+  color: rgb(46, 24, 106);
+  font-size: 1rem;
+  border: 1px solid rgb(237, 243, 245);
+  border-radius: 4px;
+  padding: 15px 20px;
+}

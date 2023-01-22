@@ -1,0 +1,31 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 5%;
+  background: rgb(241, 242, 243);
+}
+.number {
+  font-size: 22px;
+  text-transform: capitalize;
+  color: rgb(24, 33, 109);
+}
+h6 {
+  color: rgb(24, 33, 109);
+  font-size: 16px;
+  margin: 20px 0;
+}
+.h5 {
+  margin: 10% 0;
+}
+h5 {
+  margin: 5% 0;
+}
+.language {
+  display: flex;
+  justify-content: space-around;
+  gap: 20%;
+  margin: 15%;
+}
+.language img {
+  width: 2rem;
+}
